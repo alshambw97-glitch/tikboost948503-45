@@ -1,12 +1,12 @@
 {
-  "version": "1.0.2",
-  "url": "https://raw.githubusercontent.com/alshambw97-glitch/tikboost948503-45/main/TIK_BOOST_Update_v1.0.2.tbupd",
+  "version": "1.0.3",
+  "url": "https://raw.githubusercontent.com/alshambw97-glitch/tikboost948503-45/main/TIK_BOOST_Update_v1.0.3.tbupd",
   "notes_ar": [
-    "تحسين محرك الجودة والموشن بلور",
-    "تحسينات في الواجهة واستقرار المعالجة"
+    "تحديث الهوية والشعار الجديد",
+    "ألوان جديدة وتحسينات في الأداء"
   ],
   "notes_en": [
-    "Improved quality & motion blur engine",
-    "UI improvements & processing stability"
+    "New brand identity & logo",
+    "Updated theme colors & performance"
   ]
 }
