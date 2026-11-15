@@ -1,14 +1,12 @@
 {
-  "version": "1.0.4",
-  "url": "https://raw.githubusercontent.com/alshambw97-glitch/tikboost948503-45/main/TIK_BOOST_Update_v1.0.4.tbupd",
+  "version": "1.0.5",
+  "url": "https://raw.githubusercontent.com/alshambw97-glitch/tikboost948503-45/main/TIK_BOOST_Update_v1.0.5.tbupd",
   "notes_ar": [
-    "إضافة فلاتر CC1 / CC2 / CC3 بأسلوب أفتر إفكتس",
-    "تصفية ذكية لصيغ الفيديو وترتيب الواجهة",
-    "حل مشكلة عدم الرفع"
+    "حل مشكلة عدم فتح نافذة رفع الفيديو",
+    "تنسيق الشاشة ليظهر زر المعالجة بالكامل"
   ],
   "notes_en": [
-    "Added After Effects style CC1 / CC2 / CC3 filters",
-    "Smart format filtering & cleaner layout",
-    "Resolving the issue with uploading"
+    "Fixed video picker not opening",
+    "Compacted layout so Start button fits cleanly"
   ]
 }
