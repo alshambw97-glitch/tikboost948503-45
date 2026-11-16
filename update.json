@@ -1,12 +1,12 @@
 {
-  "version": "1.0.5",
-  "url": "https://raw.githubusercontent.com/alshambw97-glitch/tikboost948503-45/main/TIK_BOOST_Update_v1.0.5.tbupd",
+  "version": "1.0.6",
+  "url": "https://raw.githubusercontent.com/alshambw97-glitch/tikboost948503-45/main/TIK_BOOST_Update_v1.0.6.tbupd",
   "notes_ar": [
-    "حل مشكلة عدم فتح نافذة رفع الفيديو",
-    "تنسيق الشاشة ليظهر زر المعالجة بالكامل"
+    "حل مشكله الفلاتر وضغط المقطع بنفس الجوده",
+    "اصبح التحميل اسرع بنسبه 25% ا"
   ],
   "notes_en": [
-    "Fixed video picker not opening",
-    "Compacted layout so Start button fits cleanly"
+    "Resolving filter issues and compressing video clips while maintaining the same quality",
+    "Downloading is now 25% faster."
   ]
 }
