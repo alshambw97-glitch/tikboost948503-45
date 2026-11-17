@@ -1,12 +1,12 @@
 {
   "version": "1.0.9",
-  "url": "https://raw.githubusercontent.com/alshambw97-glitch/tikboost948503-45/main/TIK_BOOST_Update_v1.0.9.tbupd",
+  "url": "https://raw.githubusercontent.com/alshambw97-glitch/tikboost948503-45/main/TIK_BOOST_Update_v1.1.0.tbupd",
   "notes_ar": [
-    "حل مشكلة ضغط المقاطع",
+    "تحديثات عامه",
     "ضعفنا قوة الفلاتر بنسبة 80%"
   ],
   "notes_en": [
-    "Solving the video compression issue",
+     "General updates"
     "We have increased the strength of the filters by 80%."
   ]
 }
