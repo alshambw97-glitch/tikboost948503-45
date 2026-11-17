@@ -1,12 +1,12 @@
 {
-  "version": "1.0.9",
+  "version": "1.1.0",
   "url": "https://raw.githubusercontent.com/alshambw97-glitch/tikboost948503-45/main/TIK_BOOST_Update_v1.1.0.tbupd",
   "notes_ar": [
-    "تحديثات عامه",
-    "ضعفنا قوة الفلاتر بنسبة 80%"
+    "تحديثات عامة",
+    "زدنا قوة الفلاتر بنسبة 80%"
   ],
   "notes_en": [
-     "General updates"
+    "General updates",
     "We have increased the strength of the filters by 80%."
   ]
 }
