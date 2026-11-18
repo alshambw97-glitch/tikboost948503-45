@@ -1,12 +1,12 @@
 {
-  "version": "1.1.0",
-  "url": "https://raw.githubusercontent.com/alshambw97-glitch/tikboost948503-45/main/TIK_BOOST_Update_v1.1.0.tbupd",
+  "version": "1.1.1",
+  "url": "https://raw.githubusercontent.com/alshambw97-glitch/tikboost948503-45/main/TIK_BOOST_Update_v1.1.1.tbupd",
   "notes_ar": [
     "تحديثات عامة",
-    "زدنا قوة الفلاتر بنسبة 80%"
+    "تحسين الموشن بلور بنسبه 100%"
   ],
   "notes_en": [
     "General updates",
-    "We have increased the strength of the filters by 80%."
+    "Improve motion blur by 100%"
   ]
 }
