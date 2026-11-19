@@ -1,12 +1,12 @@
 {
-  "version": "1.1.4",
-  "url": "https://raw.githubusercontent.com/alshambw97-glitch/tikboost948503-45/main/TIK_BOOST_Update_v1.1.4.tbupd",
+  "version": "1.1.5",
+  "url": "https://raw.githubusercontent.com/alshambw97-glitch/tikboost948503-45/main/TIK_BOOST_Update_v1.1.5.tbupd",
   "notes_ar": [
-    "اضافه توباز AI لمعاجه المقطع ",
-    "رفع فريمات حقيقي بنسبنه 90% "
+    "تــحــســيــن الــقــائــمــة وإضــافــة الــلــون الــذهــبــي الــلــامــع",
+    "فائدة كل خيار أصبحت فعلية، وليست مجرد تغيير في الشكل، بل أصبحت عبارة عن فريمات حقيقية. "
   ],
   "notes_en": [
-    "Topaz AI plugin for video processing",
-    "A genuine 90% increase in frame rates."
+    "Menu improvements and the addition of a shiny gold color.",
+    "Each option now has a functional purpose, rather than being purely visual; they now feature actual working frames."
   ]
 }
