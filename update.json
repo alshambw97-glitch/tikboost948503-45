@@ -1,8 +1,11 @@
 {
   "version": "1.1.6",
   "url": "https://raw.githubusercontent.com/alshambw97-glitch/tikboost948503-45/main/TIK_BOOST_Update_v1.1.6.tbupd",
+  "exe_version": "1.1.6",
+  "exe_sha256": "551491f87e80f6899acee1c1f5db7028a7d4e433360ed3b0c8aa2331ca613802",
+  "exe_url": "https://pixeldrain.com/api/file/AHyLLTE8",
   "notes_ar": [
-    "تم رفع الجودة وتحسينها بشكل كبير جدًا، ونعتذر عن التأخير في المعالجة. ",
+    "تم رفع الجودة وتحسينها بشكل كبير جدًا، ونعتذر عن التأخير في المعالجة.",
     "إضافة تقنيات Real-ESRGAN وRIFE لتحسين جودة الصورة ورفع معدل الإطارات (FPS) بشكل احترافي ومميز."
   ],
   "notes_en": [
