@@ -1,12 +1,12 @@
 {
-  "version": "1.1.5",
-  "url": "https://raw.githubusercontent.com/alshambw97-glitch/tikboost948503-45/main/TIK_BOOST_Update_v1.1.5.tbupd",
+  "version": "1.1.6",
+  "url": "https://raw.githubusercontent.com/alshambw97-glitch/tikboost948503-45/main/TIK_BOOST_Update_v1.1.6.tbupd",
   "notes_ar": [
-    "تــحــســيــن الــقــائــمــة وإضــافــة الــلــون الــذهــبــي الــلــامــع",
-    "فائدة كل خيار أصبحت فعلية، وليست مجرد تغيير في الشكل، بل أصبحت عبارة عن فريمات حقيقية. "
+    "تم رفع الجودة وتحسينها بشكل كبير جدًا، ونعتذر عن التأخير في المعالجة. ",
+    "إضافة تقنيات Real-ESRGAN وRIFE لتحسين جودة الصورة ورفع معدل الإطارات (FPS) بشكل احترافي ومميز."
   ],
   "notes_en": [
-    "Menu improvements and the addition of a shiny gold color.",
-    "Each option now has a functional purpose, rather than being purely visual; they now feature actual working frames."
+    "The quality has been significantly enhanced. We apologize for the processing delay.",
+    "Integration of **Real-ESRGAN and RIFE** technologies to enhance image quality and increase the frame rate (FPS) with outstanding, professional results."
   ]
 }
